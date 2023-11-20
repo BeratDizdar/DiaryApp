@@ -45,7 +45,7 @@ Partial Class Form1
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DosyaToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(622, 28)
+        Me.MenuStrip1.Size = New System.Drawing.Size(622, 30)
         Me.MenuStrip1.TabIndex = 0
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -53,7 +53,7 @@ Partial Class Form1
         '
         Me.DosyaToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.KaydetToolStripMenuItem})
         Me.DosyaToolStripMenuItem.Name = "DosyaToolStripMenuItem"
-        Me.DosyaToolStripMenuItem.Size = New System.Drawing.Size(64, 24)
+        Me.DosyaToolStripMenuItem.Size = New System.Drawing.Size(64, 26)
         Me.DosyaToolStripMenuItem.Text = "Dosya"
         '
         'KaydetToolStripMenuItem
@@ -165,9 +165,12 @@ Partial Class Form1
         Me.Controls.Add(Me.TextBox)
         Me.Controls.Add(Me.MenuStrip1)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.MaximizeBox = False
+        Me.MaximumSize = New System.Drawing.Size(640, 497)
+        Me.MinimumSize = New System.Drawing.Size(640, 497)
         Me.Name = "Form1"
-        Me.Text = "Form1"
-        Me.TransparencyKey = System.Drawing.Color.White
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "DiaryApp"
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
         Me.ResumeLayout(False)
