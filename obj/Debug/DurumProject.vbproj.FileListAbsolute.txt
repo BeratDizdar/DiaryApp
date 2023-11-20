@@ -1,0 +1,12 @@
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\bin\Debug\DurumProject.exe.config
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\bin\Debug\DurumProject.exe
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\bin\Debug\DurumProject.pdb
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\bin\Debug\DurumProject.xml
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\obj\Debug\DurumProject.vbproj.AssemblyReference.cache
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\obj\Debug\DurumProject.Form1.resources
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\obj\Debug\DurumProject.Resources.resources
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\obj\Debug\DurumProject.vbproj.GenerateResource.cache
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\obj\Debug\DurumProject.vbproj.CoreCompileInputs.cache
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\obj\Debug\DurumProject.exe
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\obj\Debug\DurumProject.xml
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\obj\Debug\DurumProject.pdb
