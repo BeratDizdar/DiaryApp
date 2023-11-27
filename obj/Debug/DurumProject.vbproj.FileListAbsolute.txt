@@ -10,3 +10,6 @@ C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\obj\D
 C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\obj\Debug\DurumProject.exe
 C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\obj\Debug\DurumProject.xml
 C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\obj\Debug\DurumProject.pdb
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\VBProjects\DurumProject\obj\Debug\DurumProject.vbproj.CopyComplete
